@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Alfred
+web: bin/alfred -a campfire -n Alfred
