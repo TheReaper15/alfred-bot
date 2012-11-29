@@ -1,1 +1,1 @@
-["redis-brain.coffee", "hackernews.coffee", "lastfm_np.coffee"]
+["redis-brain.coffee", "hackernews.coffee", "lastfm_np.coffee", "tweet.coffee", "shipit.coffee"]
